@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/MTQ9KPI7WJX4IRAZH6EUW1.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QC/W4RXIWYP7T3QMHGBYIJP4Z.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4X/I8FD1B3EWLFASTE69J97ME.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Hierba1.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Hierba2.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Hierba3.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Madera1.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Madera2.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Madera3.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Piedra1.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Piedra2.uasset",
+				"E:/M10UF2_UnrealScene/ThirdPerson/Content/Sounds/Piedra3.uasset"
+			]
+		}
+	]
+}
